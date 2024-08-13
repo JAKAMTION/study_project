@@ -24,7 +24,7 @@ END_MESSAGE_MAP()
 CRemoteClientApp::CRemoteClientApp()
 {
 	// 支持重新启动管理器
-	//
+	//123
 	m_dwRestartManagerSupportFlags = AFX_RESTART_MANAGER_SUPPORT_RESTART;
 
 	// TODO: 在此处添加构造代码，
